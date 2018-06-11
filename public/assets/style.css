@@ -1,0 +1,46 @@
+.container{
+    margin-top: 30px
+}
+.menu-col {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.card-footer {
+    padding: 0;
+    color: #ffff !important;
+    background-color: rgba(0, 0, 0, 0.07);
+    border-top: 1px solid rgba(0, 0, 0, 0);
+}
+
+.fa-5x {
+    font-size: 65px !important;
+    color: "#3f3636"
+}
+
+.card h6 {
+    line-height: inherit;
+    font-size: 14px
+}
+
+.card-footer {
+    height: 25px;
+}
+
+a:hover {
+    color:inherit; 
+    text-decoration: inherit;
+}
+
+.bg-light {
+    background-color: #0578c4ba!important;
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(235, 232, 232, 0.9);
+}
+
+.row{
+    margin-left: 0;
+    margin-right: 0;
+}
